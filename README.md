@@ -2,9 +2,9 @@
 
 # I am Dhanshree Dharpure
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com](https://www.linkedin.com/in/dhanshree-dharpure-196b5422a/))
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode)]([https://leetcode.com](https://leetcode.com/u/Dhanshree1908/))
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:dhanshreedharpure@gmail.com)
 ![Phone](https://img.shields.io/badge/Phone-+91%209356547177-brightgreen)
 
@@ -69,8 +69,8 @@ I'm Dhanshree Dharpure, a passionate Computer Science Engineering student at Shr
 ---
 
 ### 🎗️ Roles and Responsibilities
-- **Technical Team Member**: [BRC (Blockchain Rcoem Chapter)](https://brc.com)
-- **Executive Member**: [REEF (Ramdeobaba College of Engineers for Environment Forum)](https://reef.com)
+- **Technical Team Member**: [BRC (Blockchain Rcoem Chapter)]([https://brc.com](https://www.instagram.com/blockchain_rcoem_chapter/))
+- **Executive Member**: [REEF (Ramdeobaba College of Engineers for Environment Forum)]([https://reef.com](https://www.instagram.com/rbu.reef/))
 
 ---
 
