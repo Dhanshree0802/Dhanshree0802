@@ -16,7 +16,7 @@ I'm Dhanshree Dharpure, a passionate Computer Science Engineering student at Shr
 ---
 
 ### 🎓 Education
-**Shri Ramdeobaba College of Engineering and Management (2021 – 2024)**
+**Shri Ramdeobaba College of Engineering and Management (2021 – 2025)**
 - B.Tech in Computer Science Engineering
 
 ---
